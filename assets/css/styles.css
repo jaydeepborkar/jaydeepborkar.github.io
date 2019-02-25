@@ -1,0 +1,94 @@
+html, body{
+	font-size:16px;
+	color: #000000;
+	background-color: #ffffff; 
+	font-family: 'Lato', sans-serif; 
+	 
+}
+
+.img {
+margin-top: 20px; } 	
+
+ 
+.work 
+{ margin-top: 20px; } 
+
+
+.news  
+{ margin-top: 40px; } 
+
+.volunteering   
+{ margin-top: 40px; } 
+
+.contact    
+{ margin-top: 40px; } 
+
+
+
+
+div.a {
+  font-size: 14px;
+}
+
+a:link {
+  color: #2eb82e; 
+}
+
+a:visited {
+	 color: #2eb82e; 
+} 
+	
+a:active {
+  color: #2eb82e;
+}
+
+
+a.nav-item {
+	color: #000000;
+}
+
+a.nav-item:hover {
+	color:  #2eb82e;
+}
+
+ 
+
+
+.title {
+	color: #fff;
+	text-align: left;
+	margin-bottom: 2rem;
+}
+
+
+
+.void-background {
+	background-color: transparent; 
+}
+
+@media screen and (max-width: 768px) { 
+	.nav-menu {
+		background-color: #ffffff; 
+	}
+
+	.nav-toggle:hover {
+		background-color: transparent;
+	}
+
+	.nav-toggle span {
+		background-color: #000000;
+	}
+
+	.nav-toggle span:hover {
+		background-color: #00d1b2;
+	}
+	
+	#desc { margin-top: 20px; } 
+	 
+} 
+
+
+ 
+	
+
+ 
